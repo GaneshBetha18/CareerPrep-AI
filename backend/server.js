@@ -20,7 +20,7 @@ app.use(
   cors({
     origin:
       process.env.NODE_ENV === "production"
-        ? ["https://career-prep-ai-livid.vercel.app", process.env.FRONTEND_URL]
+        ? ["https://career-prep-ai-three.vercel.app/", process.env.FRONTEND_URL]
         : "*",
     methods: ["GET", "POST", "PUT", "DELETE", "OPTIONS"],
     allowedHeaders: ["Content-Type", "Authorization"],
