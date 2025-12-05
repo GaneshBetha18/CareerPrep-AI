@@ -426,7 +426,7 @@ We welcome contributions to CareerPrep AI! Here's how you can help:
 
 ### 🐛 **Bug Reports**
 
-- Use the [issue tracker](https://github.com/Lohith-11/CareerPrep-AI/issues)
+- Use the [issue tracker](https://github.com/GaneshBetha18/CareerPrep-AI/issues)
 - Include steps to reproduce
 - Provide screenshots if applicable
 
@@ -474,7 +474,7 @@ This project is licensed under the **ISC License** - see the [LICENSE](LICENSE) 
 
 ## 📧 Contact
 
-**Lohith** - [@Lohith-11](https://github.com/GaneshBetha18)
+**BethaGanesh** - [@Lohith-11](https://github.com/GaneshBetha18)
 
 **Project Link:** [https://github.com/GaneshBetha18/CareerPrep-AI](https://github.com/GaneshBetha18/CareerPrep-AI)
 
