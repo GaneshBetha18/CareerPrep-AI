@@ -474,9 +474,9 @@ This project is licensed under the **ISC License** - see the [LICENSE](LICENSE) 
 
 ## 📧 Contact
 
-**Lohith** - [@Lohith-11](https://github.com/Lohith-11)
+**Lohith** - [@Lohith-11](https://github.com/GaneshBetha18)
 
-**Project Link:** [https://github.com/GaneshBetha18/CareerPrep-AI](https://github.com/GaneshBetha18/CareerPrep-AI))
+**Project Link:** [https://github.com/GaneshBetha18/CareerPrep-AI](https://github.com/GaneshBetha18/CareerPrep-AI)
 
 ---
 
