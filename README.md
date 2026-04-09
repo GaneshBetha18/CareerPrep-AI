@@ -186,7 +186,7 @@ VITE_API_BASE_URL=http://localhost:5000/api
 1. **Clone the repository**
 
    ```bash
-   git clone https://github.com/Lohith-11/CareerPrep-AI.git
+   https://github.com/GaneshBetha18/CareerPrep-AI.git
    cd CareerPrep-AI
    ```
 
